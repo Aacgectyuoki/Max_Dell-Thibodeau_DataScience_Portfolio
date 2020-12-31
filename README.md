@@ -9,3 +9,7 @@ If you are curious to know where you would like to live if you plan to move to t
 # [Credit Card Fraud](https://github.com/Aacgectyuoki/CreditCardFraud.py/blob/master/creditcardfraud.ipynb)
 This project uses a record of the two days in September 2013 that fraud had happened on European credit cards. When COVID-19 hit New York hard, I had experienced credit card fraud myself, and decided to do a project that would be able to detect it using Machine Learning.
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b7/Frankfurt_EZB-Neubau.20130909.jpg)
+
+# [Recommendations for vegetarian/vegan restaurants in New York, NY](https://github.com/Aacgectyuoki/Vegetarian_Vegan_Restaurant/blob/main/vegetarian-vegan-restaurant-new-york-foursquare.ipynb)
+Are you a vegetarian or vegan? or do you know a person who is a vegetarian or vegan? You and them may want to look at the charts to make your decision on where to meet if you ever plan to eat somewhere nice. This project recommends the right restaurant for you based on the average number of likes and the average review per neighborhood.
+![](https://i2.wp.com/gimmedelicious.com/wp-content/uploads/2016/07/avocado-toast-7-of-13.jpg)
